@@ -1,0 +1,33 @@
+_repo: Notes-on-Novelists-with-Some-Other-Notes_60040
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: ''
+gutenberg_issued: '2019-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60040'
+  lccn: '14018367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Novelists'
+- !lcsh 'Fiction -- History and criticism'
+- GITenberg
+tableOfContents: 'Robert Louis Stevenson -- Émile Zola -- Gustave Flaubert -- Honoré
+  de Balzac, 1902 -- Honoré de Balzac, 1913 -- George Sand, 1897 -- George Sand, 1899
+  -- George Sand, 1914 -- Gabriele D''Annunzio, 1902 -- Matilde Serao -- The new novel,
+  1914 -- Dumas the younger, 1895 -- The novel in "The ring and the book," 1912 --
+  An American art-scholar: Charles Eliot Norton, 1908. London notes, January 1897
+  -- London notes, June 1897 -- London notes, July 1897 -- London notes, August 1897.'
+title: Notes on Novelists, with Some Other Notes
+url: http://www.gutenberg.org/ebooks/60040
